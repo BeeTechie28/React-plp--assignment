@@ -9,7 +9,7 @@ A fully functional **React application** with:
 - A clean layout with **Navbar** and **Footer** components.
 
 ---
-
+this is the link to my deployed app:https://react-plp-assignment.vercel.app/
 ## 📝 Features
 
 ### Task Manager
